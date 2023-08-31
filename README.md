@@ -1,2 +1,2 @@
-# Expleo_Selenium
+# Selenium
 Expleo Selenium Training
