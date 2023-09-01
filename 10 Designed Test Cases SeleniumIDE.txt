@@ -1,0 +1,138 @@
+Test Case 1: 
+Open URL and Verify Page Title
+Description: Open a specified URL and verify that the page title matches the expected title.
+
+Steps:
+
+1.Open the browser.
+2.Navigate to the Flipkart website:
+3.Opens https://www.flipkart.com/
+4.Verify the page title.
+5.Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More.
+6.Assert the presence of the search bar
+-----------------------------------------------------------
+Test Case 2:
+Open URL and play the YouTube
+
+Steps:
+
+1.Open the browser.
+2. Navigate to the YouTube website:
+3.Opens https://www.youtube.com/
+4.Search the "Music Video".
+5.Click on the "Search" button.
+6.Play the Video.
+-----------------------------------------------------------------------------------------
+Test Case 3:
+Open Wikipedia, search for an article, and verify the article's content.
+
+Steps:
+
+1.Open the browser.
+2.Navigate to Wikipedia:
+3.Opens https://en.wikipedia.org/
+4.Search for "Selenium".
+5.Press the "Enter" key:
+6.Click on the first search result (an article)
+7.Verify the article's title:
+8.ASSERT the text using "assertText".
+Close the browser.
+-----------------------------------------------------------------------------------------------
+Test Case 4:
+Open Twitter, log in, and post a tweet.
+
+Steps:
+
+1.Open the browser.
+2.Navigate to Twitter:
+3.Opens https://twitter.com/
+4.Enter your username and password:
+5.Authenticates the username & password.
+6.Click the "Log in" button
+7.Compose a tweet
+8.Hello, Twitter! #SeleniumIDE
+9.Click the "Tweet" button
+10.Close the browser.
+-------------------------------------------------------------------------------------------
+Test Case 5:
+Description: Open Amazon, search for a product, and add it to the cart.
+
+Steps:
+
+1.Open the browser.
+2.Navigate to Amazon:
+3.https://www.amazon.com/
+4.Enter a product in the Search.
+Laptop
+5.Click the "Search" button
+6.Click on a product from the search results
+7.Add the product to the cart
+8.Go to Home Page
+9.Close the browser
+-------------------------------------------------------------------------------
+Test Case 6:
+Description: Open Facebook, log in, and post a status update.
+
+Steps:
+
+1.Open the browser.
+2.Open https://www.facebook.com/
+3.Enter your email/phone and password:
+4.Click the "Log In" button
+5.Compose a status update i.e., Hello, Facebook! #SeleniumIDE
+6.Post the status update:
+7.Close the browser.
+---------------------------------------------------------------------------------
+Test Case 7:
+Description: Open LinkedIn, log in, and send a connection request.
+
+Steps:
+
+1.Open the browser.
+2.Open https://www.linkedin.com/
+3.Enter your email/phone and password:
+4.Click the "Sign In" button:
+5.Go to a LinkedIn profile (e.g., search for a name):
+6.Send a connection request
+7.Click on Connect.
+--------------------------------------------------------------------------------------
+Test Case 8:
+Description: Open Reddit, browse a subreddit, and upvote a post.
+
+Steps:
+
+1.Open the browser.
+2.Navigate to Reddit
+3.Open https://www.reddit.com/
+4.Click on a subreddit (e.g., "r/funny"):
+5.Scroll down to view posts
+6.Close browser
+----------------------------------------------------------------------------
+Test Case 9:
+Google Search
+Description: Open Google, perform a search, and verify search results.
+
+Steps:
+
+1.Open the browser.
+2.Navigate to Google
+3.Open https://www.google.com/
+4.Enter a "search" bar
+5.Search for "SeleniumIDE"
+6.Click the "Google Search" button:
+7.Verifies search results page
+8.Assert the Title.
+----------------------------------------------------------------------------------------
+Test Case 10:
+Open GitHub, search for a repository, and star it.
+
+Steps:
+
+1.Open the browser
+2.Navigate to GitHub
+3.Open https://www.GitHub.com/
+4.Search the repository
+5.Click the first repository
+6.Do some Operations
+7.Close the browser.
+
